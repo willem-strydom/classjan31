@@ -1,5 +1,5 @@
 
 def onlyfunc():
-    print("hello world!")
+    print("hello class!")
 
-onlyfunc()
+onlyfunc() #nothere!
